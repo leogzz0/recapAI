@@ -5,8 +5,9 @@
 
 recapAI is a powerful tool that generates concise summaries of articles based on provided URLs. It saves users time by automatically extracting key information and condensing it into a summary. With recapAI, you can quickly grasp the main points of an article without having to read through the entire text. Whether you're a student, researcher, or simply looking to stay informed, this tool streamlines the process of digesting information from online articles.
 
-GitHub Repo: https://github.com/leogzz0/recapAI
 Website Protoype: https://silly-puffpuff-2a418d.netlify.app/
+
+GitHub Repo: https://github.com/leogzz0/recapAI
 
 ## Table of Contents 
 
